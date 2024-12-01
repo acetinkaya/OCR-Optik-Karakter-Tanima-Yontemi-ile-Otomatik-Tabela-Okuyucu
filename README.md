@@ -25,4 +25,5 @@ Web sites: https://ieeexplore.ieee.org/document/8093466
 2017 International Conference on Computer Science and Engineering (UBMK), 5-8 Oct. 2017, Date Added to IEEE Xplore: 02 November 2017
 ISBN Information: DOI: 10.1109/UBMK.2017.8093367
 Publisher: IEEE
+
 Conference Location: Antalya, Turkey
