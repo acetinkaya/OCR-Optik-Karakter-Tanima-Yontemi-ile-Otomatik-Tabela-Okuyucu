@@ -31,6 +31,7 @@ Tam Metnin Kongre Kitabındaki Sayfaları: 13 - 18
 
 ![AlternatifMetin](https://github.com/acetinkaya/Fuzzy-Position-Control-Approach-For-An-Autonomous-Robot-Controller/blob/master/icat-conferance.png)
 
+---
 
 
 
