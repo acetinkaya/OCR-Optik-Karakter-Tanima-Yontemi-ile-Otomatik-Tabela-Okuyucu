@@ -7,6 +7,10 @@
 - **[Ali Çetinkaya](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)**     
 Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey  
 
+- **Novruz Allahverdi**    
+Department of Computer Engineering, Faculty of Engineering, KTO Karatay University
+
+
 
 Anahtar kelimeler— Optik Karakter Tanma, Tabela Okuma, Tesseract OCR 
 
