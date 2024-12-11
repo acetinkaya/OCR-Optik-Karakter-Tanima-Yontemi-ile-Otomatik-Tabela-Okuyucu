@@ -41,7 +41,7 @@ Keywords- Optical Character Recognition, Signboard Reading, Tesseract OCR
 
 ---
 
-![AlternatifMetin](https://github.com/acetinkaya/Fuzzy-Position-Control-Approach-For-An-Autonomous-Robot-Controller/blob/master/icat17-calismasi.png)
+![AlternatifMetin](
 
 ---
 
