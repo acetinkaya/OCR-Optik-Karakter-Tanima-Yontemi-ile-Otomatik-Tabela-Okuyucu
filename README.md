@@ -1,6 +1,6 @@
 # OCR-Optik-Karakter-Tanima-Yontemi-ile-Otomatik-Tabela-Okuyucu
 
-
+## Authors
 
 Özet—Bu çalışmada dili yabancı bir ülkede seyehat ederken trafikte karşılaşılan trafik levhalar ve diğer yönlendirme işaretleri ile yerel dilin, ...
 
