@@ -21,6 +21,7 @@ Department of Information Security Technologies, Istanbul Gelisim Vocational Sch
 
 Kongre İsmi: 5th International Conference on Advanced Technology & Sciences
 
+Kongre Kitabı ISBN No: 978-605-67535-1-0
 
 
 
