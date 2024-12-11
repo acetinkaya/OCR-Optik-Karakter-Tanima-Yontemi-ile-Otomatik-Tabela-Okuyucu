@@ -5,6 +5,7 @@
 Özet—Bu çalışmada dili yabancı bir ülkede seyehat ederken trafikte karşılaşılan trafik levhalar ve diğer yönlendirme işaretleri ile yerel dilin, ...
 
 - **[Ali Çetinkaya](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)**     
+Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey  
 
 
 Anahtar kelimeler— Optik Karakter Tanma, Tabela Okuma, Tesseract OCR 
