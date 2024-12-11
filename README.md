@@ -62,7 +62,7 @@ Keywords- Optical Character Recognition, Signboard Reading, Tesseract OCR
 
 [ResearchGate](https://www.researchgate.net/publication/317844965_Fuzzy_Position_Control_Approach_for_Autonomous_Robot_Controller)
 
-[IGU Avesis](https://avesis.gelisim.edu.tr/yayin/8edde89c-4ec1-4a36-82a0-8d1a6473e6ff/fuzzy-position-control-approach-for-autonomous-robot-controller)
+[IGU Avesis](https://avesis.gelisim.edu.tr/yayin/63bced15-1759-45ab-ad53-e35736783995/optik-karakter-tanima-yontemi-ile-otomatik-tabela-okuyucu)
 
 ---
 
