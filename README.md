@@ -47,6 +47,8 @@ Keywords- Optical Character Recognition, Signboard Reading, Tesseract OCR
 
 ---
 
+##  Kongre Erişim Sayfaları
+
 
 Published in: 2017 International Conference on Computer Science and Engineering (UBMK), Date of Conference: 5-8 Oct. 2017
 Date Added to IEEE Xplore: 02 November 2017
