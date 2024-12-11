@@ -68,7 +68,7 @@ Keywords- Optical Character Recognition, Signboard Reading, Tesseract OCR
 
 ## How to Cite / Nasıl Alıntı Yapılır
 
-- **IEEE**: A. Çetinkaya Et Al. , "Fuzzy Position Control Approach for Autonomous Robot Controller," 5th International Conference On Advanced Technology & Sciences (ICAT 2017) , vol.1, Antalya, Turkey, pp.13-18, 2017
+- **IEEE**: T. Saray, A. Çetinkaya, and A. Okatan, “Optik karakter tanıma yöntemi ile otomatik tabela okuyucu,” 2017 International Conference on Computer Science and Engineering (UBMK), pp. 1061–1063, Oct. 2017, doi: https://doi.org/10.1109/ubmk.2017.8093466.
 
 - **APA**: Saray, T., Çetinkaya, A., & Okatan, A. (2017, October). Optik karakter tanıma yöntemi ile otomatik tabela okuyucu. In 2017 International Conference on Computer Science and Engineering (UBMK) (pp. 1061-1063). IEEE.
 
