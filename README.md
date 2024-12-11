@@ -25,6 +25,10 @@ Kongre Tarihleri: 5-8 October 2017, Antalya, Turkey.
 
 Kongre Kitabındaki Sayfalar: 1140 - 1142
 
+DOI: 10.1109/UBMK.2017.8093367
+
+Yayıncı: IEEE
+
 --
 
 Published in: 2017 International Conference on Computer Science and Engineering (UBMK), Date of Conference: 5-8 Oct. 2017
