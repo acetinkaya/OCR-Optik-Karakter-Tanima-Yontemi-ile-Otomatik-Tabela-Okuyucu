@@ -67,6 +67,10 @@ Keywords- Optical Character Recognition, Signboard Reading, Tesseract OCR
 
 License:
 
+This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
+
+---
+
 Published in: 2017 International Conference on Computer Science and Engineering (UBMK), Date of Conference: 5-8 Oct. 2017
 Date Added to IEEE Xplore: 02 November 2017
 ISBN Information:
