@@ -1,5 +1,5 @@
 # OCR-Optik-Karakter-Tanima-Yontemi-ile-Otomatik-Tabela-Okuyucu
-OCR - Optik Karakter Tanima Yontemi ile Otomatik Tabela Okuyucu 
+
 
 
 Özet—Bu çalışmada dili yabancı bir ülkede seyehat ederken trafikte karşılaşılan trafik levhalar ve diğer yönlendirme işaretleri ile yerel dilin, ...
