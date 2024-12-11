@@ -11,6 +11,7 @@ Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanb
 Department of Computer Engineering, Faculty of Engineering, KTO Karatay University
 
 - **[Tugba Saray](https://scholar.google.com.tr/citations?user=TL74kPEAAAAJ)**   
+Department of Information Security Technologies, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey
 
 Anahtar kelimeler— Optik Karakter Tanma, Tabela Okuma, Tesseract OCR 
 
