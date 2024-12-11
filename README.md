@@ -35,10 +35,7 @@ Tam Metnin Kongre Kitabındaki Sayfaları: 13 - 18
 
 Abstract— In this work, An automatic recognition system designed to be used while travelling in a country whose language is not known to the traveler. The system reads the traffic sign boards by using a camera. Then software of the system gives the meanings of the signs in known language in the computer screen attached to the car dash. OCR system in fact takes the information for the camera as an image. Then, the program translates the information in the form of letters and symbols. System uses Emgu CV tesseract OCR Motor.
 
-Anahtar kelimeler— Optik Karakter Tanma, Tabela Okuma, Tesseract OCR 
-
-
-Optical Character Recognition, Signboard Reading, Tesseract OCR
+Keywords- Optical Character Recognition, Signboard Reading, Tesseract OCR
 
 
 Published in: 2017 International Conference on Computer Science and Engineering (UBMK), Date of Conference: 5-8 Oct. 2017
