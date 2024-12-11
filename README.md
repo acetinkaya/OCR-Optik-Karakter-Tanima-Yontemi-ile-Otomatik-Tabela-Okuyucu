@@ -29,12 +29,12 @@ Kongre Kitabındaki Sayfalar: 1140 - 1142
 
 Published in: 2017 International Conference on Computer Science and Engineering (UBMK), Date of Conference: 5-8 Oct. 2017
 
-ISBN Information: 02 November 2017
-INSPEC Accession Number: 17335035
-DOI: 10.1109/UBMK.2017.8093466
-Publisher: IEEE
-Conference Location: Antalya, Turkey
-Web sites: https://ieeexplore.ieee.org/document/8093466
+ISBN Information: 02 November 2017  
+INSPEC Accession Number: 17335035  
+DOI: 10.1109/UBMK.2017.8093466  
+Publisher: IEEE  
+Conference Location: Antalya, Turkey  
+Web sites: https://ieeexplore.ieee.org/document/8093466  
 
 ---
 
