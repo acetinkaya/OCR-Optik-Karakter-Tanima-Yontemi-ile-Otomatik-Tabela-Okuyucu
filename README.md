@@ -5,8 +5,8 @@
 - **[Ali Çetinkaya](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)**     
 Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey  
 
-- **Novruz Allahverdi**    
-Department of Computer Engineering, Faculty of Engineering, KTO Karatay University
+- **[Ali OKATAN]**    
+Department of Computer Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University, Istanbul, Turkey
 
 - **[Tugba Saray](https://scholar.google.com.tr/citations?user=TL74kPEAAAAJ)**   
 Department of Information Security Technologies, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey
