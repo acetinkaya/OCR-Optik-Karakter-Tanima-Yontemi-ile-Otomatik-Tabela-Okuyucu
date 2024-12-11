@@ -60,7 +60,7 @@ Keywords- Optical Character Recognition, Signboard Reading, Tesseract OCR
 
 [IEEE - 2017 International Conference on Computer Science and Engineering (UBMK)](https://ieeexplore.ieee.org/document/8093466)
 
-[ResearchGate](https://www.researchgate.net/publication/317844965_Fuzzy_Position_Control_Approach_for_Autonomous_Robot_Controller)
+[ResearchGate](https://www.researchgate.net/profile/Ali-Cetinkaya-3/publication/320829351_Optik_karakter_tanima_yontemi_ile_otomatik_tabela_okuyucu/links/60cd16c3458515dc1791bb94/Optik-karakter-tanima-yoentemi-ile-otomatik-tabela-okuyucu.pdf)
 
 [IGU Avesis](https://avesis.gelisim.edu.tr/yayin/63bced15-1759-45ab-ad53-e35736783995/optik-karakter-tanima-yontemi-ile-otomatik-tabela-okuyucu)
 
