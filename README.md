@@ -17,13 +17,24 @@ Department of Information Security Technologies, Istanbul Gelisim Vocational Sch
 
 ## Kongre Bilgileri: 
 
-Kongre İsmi: 5th International Conference on Advanced Technology & Sciences
+Kongre İsmi: 2017 International Conference on Computer Science and Engineering (UBMK 2017)
 
-Kongre Kitabı ISBN No: 978-605-67535-1-0
+Kongre Kitabı ISBN No: 9781538609316
 
-Kongre Tarihleri: May 9-12, 2017 Antalya, Turkey
+Kongre Tarihleri: 5-8 October 2017, Antalya, Turkey.
 
 Tam Metnin Kongre Kitabındaki Sayfaları: 13 - 18
+
+--
+
+Published in: 2017 International Conference on Computer Science and Engineering (UBMK), Date of Conference: 5-8 Oct. 2017
+
+ISBN Information: 02 November 2017
+INSPEC Accession Number: 17335035
+DOI: 10.1109/UBMK.2017.8093466
+Publisher: IEEE
+Conference Location: Antalya, Turkey
+Web sites: https://ieeexplore.ieee.org/document/8093466
 
 ---
 
@@ -69,14 +80,7 @@ This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 In
 
 ---
 
-Published in: 2017 International Conference on Computer Science and Engineering (UBMK), Date of Conference: 5-8 Oct. 2017
-Date Added to IEEE Xplore: 02 November 2017
-ISBN Information:
-INSPEC Accession Number: 17335035
-DOI: 10.1109/UBMK.2017.8093466
-Publisher: IEEE
-Conference Location: 
-Web sites: https://ieeexplore.ieee.org/document/8093466
+
 
 
 2017 International Conference on Computer Science and Engineering (UBMK), 5-8 Oct. 2017, Date Added to IEEE Xplore: 02 November 2017
