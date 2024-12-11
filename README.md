@@ -19,11 +19,11 @@ Department of Information Security Technologies, Istanbul Gelisim Vocational Sch
 
 Kongre İsmi: 2017 International Conference on Computer Science and Engineering (UBMK 2017)
 
-Kongre Kitabı ISBN No: 9781538609316
+Kongre Kitabı ISBN No: 978-1-5386-0930-9
 
 Kongre Tarihleri: 5-8 October 2017, Antalya, Turkey.
 
-Tam Metnin Kongre Kitabındaki Sayfaları: 13 - 18
+Kongre Kitabındaki Sayfalar: 1140 - 1142
 
 --
 
