@@ -10,7 +10,7 @@ Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanb
 - **Novruz Allahverdi**    
 Department of Computer Engineering, Faculty of Engineering, KTO Karatay University
 
-
+- **[Tugba Saray](https://scholar.google.com.tr/citations?user=TL74kPEAAAAJ)**   
 
 Anahtar kelimeler— Optik Karakter Tanma, Tabela Okuma, Tesseract OCR 
 
