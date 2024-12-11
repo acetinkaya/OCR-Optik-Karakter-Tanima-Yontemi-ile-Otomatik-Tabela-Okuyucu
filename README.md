@@ -27,7 +27,7 @@ Tam Metnin Kongre Kitabındaki Sayfaları: 13 - 18
 
 ---
 
-![AlternatifMetin](
+![AlternatifMetin](https://github.com/acetinkaya/OCR-Optik-Karakter-Tanima-Yontemi-ile-Otomatik-Tabela-Okuyucu/blob/master/ocr_kongre.png)
 
 ---
 
