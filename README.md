@@ -23,7 +23,7 @@ Kongre İsmi: 5th International Conference on Advanced Technology & Sciences
 
 Kongre Kitabı ISBN No: 978-605-67535-1-0
 
-
+Kongre Tarihleri: May 9-12, 2017 Istanbul, Turkey
 
 
 Anahtar kelimeler— Optik Karakter Tanma, Tabela Okuma, Tesseract OCR 
