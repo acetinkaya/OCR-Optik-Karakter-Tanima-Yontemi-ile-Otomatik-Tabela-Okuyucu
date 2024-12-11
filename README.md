@@ -58,7 +58,7 @@ Keywords- Optical Character Recognition, Signboard Reading, Tesseract OCR
 
 ##  Kongre Erişim Sayfaları
 
-[5th International Conference on Advanced Technology & Sciences (ICAT'17) Web Site](https://www.icatsconf.org/TURKEY2017/icat17)
+[IEEE - 2017 International Conference on Computer Science and Engineering (UBMK)](https://ieeexplore.ieee.org/document/8093466)
 
 [ResearchGate](https://www.researchgate.net/publication/317844965_Fuzzy_Position_Control_Approach_for_Autonomous_Robot_Controller)
 
