@@ -41,7 +41,7 @@ Keywords- Optical Character Recognition, Signboard Reading, Tesseract OCR
 
 ---
 
-![AlternatifMetin](
+![AlternatifMetin](https://github.com/acetinkaya/OCR-Optik-Karakter-Tanima-Yontemi-ile-Otomatik-Tabela-Okuyucu/blob/master/yay%C4%B1n.png)
 
 ---
 
